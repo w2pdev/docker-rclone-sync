@@ -2,7 +2,7 @@ FROM alpine:latest
 
 MAINTAINER Robin Ostlund <me@robinostlund.name>
 
-ENV INST_RCLONE_VERSION=current
+ENV INST_RCLONE_VERSION=v1.69.3
 ENV ARCH=amd64
 ENV SYNC_SRC=
 ENV SYNC_DEST=
